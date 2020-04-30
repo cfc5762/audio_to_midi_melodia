@@ -1,0 +1,1 @@
+python audio_to_midi_melodia.py --smooth 0.25 --minduration 0.1 --jams ~/goreshit - memestreet - 15 half of sid.wav ~/goreshit - memestreet - 15 half of sid.mid 60
